@@ -1,6 +1,18 @@
 # Portfolio
 
 
+## Update Log
+
+September 9, 11:36 @ Campus Office
+
+[ ] Add CV to Portfolio both the 1 page one and the 2 page version -> convert each to Markdown. 
+[ ] Add to Markdown from excel file the "long list" of past projects -> write down in pseudocode or in plain english self what were the problems i faced and how i tackled them
+[ ] Add a list of STAR Behavioral examples, tagg each based on a set of consolidated Company/Personal/Work/Life/All Principles eg from CGI, [Amazon](https://trello.com/b/C6un8Sor), Ray Dalio / BridgeWaters [Principles summary](https://1drv.ms/b/s!Aj1bQvQJu_c1vz3Ho6fwUG2dTix6?e=QZL3rb)  OR get app on a old ass apple?, Google, Facebook, Quallcomm, [Ayden](https://www.linkedin.com/posts/adyen_peopleofadyen-thisisadyen-fintech-activity-6576703083257044993-MxZS)   ...
+[ ] convet Portfolio Domain into my personal Github pages
+
+
+---
+
 - Project History 
   - *w Code or Detailed Descriptions*
 - Technologies / Skill Progress visualization... See excel file

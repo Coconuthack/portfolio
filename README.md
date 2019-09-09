@@ -5,10 +5,21 @@
 
 September 9, 11:36 @ Campus Office
 
-[ ] Add CV to Portfolio both the 1 page one and the 2 page version -> convert each to Markdown. 
-[ ] Add to Markdown from excel file the "long list" of past projects -> write down in pseudocode or in plain english self what were the problems i faced and how i tackled them
-[ ] Add a list of STAR Behavioral examples, tagg each based on a set of consolidated Company/Personal/Work/Life/All Principles eg from CGI, [Amazon](https://trello.com/b/C6un8Sor), Ray Dalio / BridgeWaters [Principles summary](https://1drv.ms/b/s!Aj1bQvQJu_c1vz3Ho6fwUG2dTix6?e=QZL3rb)  OR get app on a old ass apple?, Google, Facebook, Quallcomm, [Ayden](https://www.linkedin.com/posts/adyen_peopleofadyen-thisisadyen-fintech-activity-6576703083257044993-MxZS)   ...
-[ ] convet Portfolio Domain into my personal Github pages
+- [ ] Add CV to Portfolio both the 1 page one and the 2 page version -> convert each to Markdown. 
+- [ ] Add to Markdown from excel file the "long list" of past projects -> write down in pseudocode or in plain english self what were the problems i faced and how i tackled them
+- [ ] Add a list of STAR Behavioral examples, tagg each based on a set of consolidated Company/Personal/Work/Life/All Principles 
+   - eg from CGI, [Amazon](https://trello.com/b/C6un8Sor), Ray Dalio / BridgeWaters [Principles summary](https://1drv.ms/b/s!Aj1bQvQJu_c1vz3Ho6fwUG2dTix6?e=QZL3rb)  OR get [his app](https://apps.apple.com/us/app/principles-in-action/id1211294305?_branch_match_id=487555809464716762) on a old ass apple?, Google, Facebook, Quallcomm, [Ayden](https://www.linkedin.com/posts/adyen_peopleofadyen-thisisadyen-fintech-activity-6576703083257044993-MxZS)   ...
+- [ ] convet Portfolio Domain into my personal Github pages
+
+---
+
+## Current Projects
+
+1) Siraj Raval's Machine Learning Course
+2) pTiU MSc Cognitive Science & AI](https://www.tilburguniversity.edu/education/masters-programmes/cognitive-science-and-artificial-intelligence) track (undefined end-date), -> instead current block focused on passing Masters / Job Market ready courses :
+   1) 880008-M-6
+   2) [880022-M-6](https://tilburguniversity.instructure.com/courses/1628) Data Mining for Business & Governance
+   3) (dropped)
 
 
 ---
